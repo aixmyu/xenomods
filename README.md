@@ -17,9 +17,6 @@ The ini settings also work well with Future Connected and Torna.
 
 ### Xenoblade DE:
 
-
-![0100ff500e34a000_2024-04-27_14-00-01-117](https://github.com/user-attachments/assets/d8cd368f-d6b0-4a58-9a11-0df088245757)
-![0100ff500e34a000_2024-04-27_13-56-49-547](https://github.com/user-attachments/assets/31feefd9-a85f-492a-a665-607e35812c49)
 ![0100ff500e34a000_2024-04-27_01-53-29-035](https://github.com/user-attachments/assets/4d809e14-4e7f-4734-a27a-3a152e7a3125)
 ![0100ff500e34a000_2024-04-23_23-05-46-271](https://github.com/user-attachments/assets/28adf5fa-d371-45cd-9f76-eade48191dff)
 ![0100ff500e34a000_2024-04-26_22-02-31-257](https://github.com/user-attachments/assets/f6d29bff-5680-4bbd-9f1e-afe9b367f119)
