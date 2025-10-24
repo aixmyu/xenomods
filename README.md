@@ -10,6 +10,13 @@ Mainly post-processing tweaks that have worked well with my rendering settings. 
 
 The ini settings also work well with Future Connected and Torna.
 
+To Do:
+- [x] XBC1 ini
+- [x] XBC2 ini
+- [ ] XBC1 bloom rez/birghtness fix
+- [ ] XBC2 bloom rez fix
+- [ ] XBC3 ini
+- [ ] XBCX
 ## Screenshots
 
 > [!WARNING]
